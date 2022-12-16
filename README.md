@@ -14,7 +14,10 @@
 
 - ⚡ Fun fact **I think I am funny with extrovert people**
 
+<h2 align="left">About my project:</h2>
+
 Vehicle classification dataset: TAU vehicle dataset on Kaggle
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
